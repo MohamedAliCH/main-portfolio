@@ -1,0 +1,41 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="454" height="443">
+  <g stroke="#050505" stroke-width="1.5" stroke-linejoin="round">
+    <!-- Left Lower -->
+    <polygon points="50,350 120,350 85,250" fill="#000000" />
+    <polygon points="50,350 85,250 50,150" fill="#050505" />
+    <polygon points="120,350 120,180 85,250" fill="#0A0A0A" />
+    <polygon points="50,150 85,250 120,180" fill="#111111" />
+    
+    <!-- Left Upper -->
+    <polygon points="50,150 120,180 85,110" fill="#1C1C1C" />
+    <polygon points="50,150 85,110 50,50" fill="#242424" />
+    <polygon points="120,180 120,100 85,110" fill="#0A0A0A" />
+    <polygon points="120,100 50,50 85,110" fill="#313131" />
+
+    <!-- Center Dip Left -->
+    <polygon points="50,50 120,100 200,160" fill="#4A4A4A" />
+    <polygon points="120,180 160,230 120,100" fill="#000000" />
+    <polygon points="120,100 160,230 200,160" fill="#050505" />
+    <polygon points="120,180 200,280 160,230" fill="#111111" />
+    <polygon points="200,280 200,160 160,230" fill="#1C1C1C" />
+
+    <!-- Center Dip Right -->
+    <polygon points="350,50 200,160 280,100" fill="#313131" />
+    <polygon points="280,180 280,100 240,230" fill="#0A0A0A" />
+    <polygon points="280,100 200,160 240,230" fill="#1C1C1C" />
+    <polygon points="280,180 240,230 200,280" fill="#000000" />
+    <polygon points="200,280 240,230 200,160" fill="#111111" />
+
+    <!-- Right Upper -->
+    <polygon points="350,150 280,180 315,110" fill="#242424" />
+    <polygon points="350,150 315,110 350,50" fill="#4A4A4A" />
+    <polygon points="280,180 280,100 315,110" fill="#050505" />
+    <polygon points="280,100 350,50 315,110" fill="#1C1C1C" />
+
+    <!-- Right Lower -->
+    <polygon points="350,350 280,350 315,250" fill="#0A0A0A" />
+    <polygon points="350,350 315,250 350,150" fill="#000000" />
+    <polygon points="280,350 280,180 315,250" fill="#1C1C1C" />
+    <polygon points="350,150 315,250 280,180" fill="#111111" />
+  </g>
+</svg>

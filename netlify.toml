@@ -1,0 +1,11 @@
+[build]
+  # Tell Netlify that the React code is inside the "client" folder
+  base = "client"
+  publish = "dist"
+  command = "npm run build"
+
+# Add a redirect rule so React Router handles routing correctly
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
